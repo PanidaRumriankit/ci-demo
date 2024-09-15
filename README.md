@@ -2,7 +2,7 @@ Continuous Integration Demo
 ===========================
 [![Run unit tests](https://github.com/PanidaRumriankit/ci-demo/actions/workflows/python-app.yml/badge.svg)](https://github.com/PanidaRumriankit/ci-demo/actions/workflows/python-app.yml)
 [![Style checking](https://github.com/PanidaRumriankit/ci-demo/actions/workflows/style-checking.yml/badge.svg)](https://github.com/PanidaRumriankit/ci-demo/actions/workflows/style-checking.yml)
-<br>
+
 This project demonstrates use of Github Actions to build and test a Python project.  
 
 ## Automatic Testing
